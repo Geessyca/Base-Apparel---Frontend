@@ -3,7 +3,9 @@
 </h1>
 
 <h4 align="center">
-  O intuito deste repositório é compartilhar a construção um layout simples criado pelo <a href='https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0'> Frontend Mentor </a>
+  O intuito deste repositório é compartilhar a construção um layout simples criado pelo <a href='https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0' target='_blank'> Frontend Mentor </a>
+  </br>
+  <a href='https://geessyca.github.io/Base-Apparel---Frontend/' target='_blank'>🔎 View Demo</a>
 </h4>
 
 <h2 align="left">
